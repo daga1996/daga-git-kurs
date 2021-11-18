@@ -1,0 +1,2 @@
+def przedstawSie(imie):
+print(f'Nazywam się: {imię}')

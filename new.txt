@@ -1,3 +1,7 @@
 print(hello world)
 
+<<<<<<< HEAD
 będzie się działo
+=======
+print('Wyczuwam konflikt...')
+>>>>>>> nowy_plik_utils.py
